@@ -84,7 +84,7 @@ Partial Class Form1
         '
         'car
         '
-        Me.car.Image = Global.cargame.My.Resources.Resources._9
+        Me.car.Image = Global.cargame.My.Resources.Resources.car_145008_1280
         Me.car.Location = New System.Drawing.Point(141, 348)
         Me.car.Name = "car"
         Me.car.Size = New System.Drawing.Size(52, 78)
